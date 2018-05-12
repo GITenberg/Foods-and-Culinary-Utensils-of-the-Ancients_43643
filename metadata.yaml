@@ -1,0 +1,32 @@
+_repo: Foods-and-Culinary-Utensils-of-the-Ancients_43643
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43643-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Martyn, Charles
+    birthdate: 1874
+    gutenberg_agent_id: '42341'
+    url: http://www.gutenberg.org/2009/agents/42341
+description: ''
+gutenberg_issued: '2013-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43643'
+  lccn: '48036281'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking -- History'
+- !lcc 'TX'
+- !lcsh 'Food -- History'
+- !lcsh 'Kitchen utensils'
+tableOfContents: '"In the beginning": The coming of the nations -- Assyria and the
+  other kingdoms of the "tawny men" -- Egypt and the Egyptians -- The "vegetable kingdom"
+  of Ancient Egypt -- Greece before the age of luxury -- Rome in the days of her greatest
+  prosperity -- The ancient Jews -- The Chinese.'
+title: Foods and Culinary Utensils of the Ancients
+url: http://www.gutenberg.org/ebooks/43643
